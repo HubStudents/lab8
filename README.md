@@ -44,3 +44,9 @@ DreamShaper
 ![by_Disney_Animation_Studios_S1378827292_St25_G7 5 (1)](https://github.com/HubStudents/lab8/assets/118428632/dd658fef-e9dd-47b0-af07-5bb8d6e532d1)      
 anything-v4.0  
 ![by_Disney_Animation_Studios_S181078392_St25_G7 5](https://github.com/HubStudents/lab8/assets/118428632/2acc0038-deb8-445a-b060-d44b0468fc24)    
+
+Еще дополнение, сравнение промта на русском и на английском   
+
+![photo_2023-05-26_13-54-55](https://github.com/HubStudents/lab8/assets/118428632/214a3490-ae58-4aee-8e5b-8e28858c2311)
+![photo_2023-05-26_13-54-54](https://github.com/HubStudents/lab8/assets/118428632/3f857707-b0e6-4274-8272-8ff4deee90dc)
+
