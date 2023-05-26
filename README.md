@@ -40,7 +40,7 @@ anything-v4.0
 ![student-3500990_960_720_opt](https://github.com/HubStudents/lab8/assets/118428632/21f2ad5c-707e-4abb-ac8d-245655294cc5)      
 dreamlike-photoreal    
 ![by_Disney_Animation_Studios_S1453291385_St25_G7 5 (1)](https://github.com/HubStudents/lab8/assets/118428632/ee7b2353-ff56-4345-9e90-29149fb98b3e)      
-DreamShaper
+DreamShaper    
 ![by_Disney_Animation_Studios_S1378827292_St25_G7 5 (1)](https://github.com/HubStudents/lab8/assets/118428632/dd658fef-e9dd-47b0-af07-5bb8d6e532d1)      
 anything-v4.0  
 ![by_Disney_Animation_Studios_S181078392_St25_G7 5](https://github.com/HubStudents/lab8/assets/118428632/2acc0038-deb8-445a-b060-d44b0468fc24)    
